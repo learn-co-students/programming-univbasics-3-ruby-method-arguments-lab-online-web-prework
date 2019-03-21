@@ -9,7 +9,7 @@
 ## Introduction
 
 Now that we've seen a few ways of defining methods to add key functionality to
-our programs, let's take a stab at writing our own methods. You can use the
+our programs, let's try writing our own methods. You can use the
 tests to help guide you by running `learn` or `learn test` in your terminal,
 however, this look familiar to you now.
 
