@@ -1,0 +1,2 @@
+Expect{introduction("#Gillian")}.to output("Hi, my name is #{Gillian}.")
+Expect{introduction_with_language_optional("#Gillian")and("#Ruby")}.to output("Hi, my name is #{name} and I am learning to program in #{language}.")
