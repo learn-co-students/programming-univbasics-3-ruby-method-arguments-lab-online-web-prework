@@ -1,9 +1,9 @@
-#introduction
-name="Hi, my name is #{name}."
+def introduction
+  puts "Hi, my name is #{name}."
+  name="Josh"
+  name="Dan"
+end
 
-name="Maria"
-#introduction_with_language
- 
- name_language="Hi, my name is #{name} and I am learning to program in #{language}"
- 
- name_language=("Maria,Ruby")
+def greeting(name, language)
+  puts "Hi my name is #{name} and I am learning tp program in #{language}."
+end
