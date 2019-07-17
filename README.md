@@ -1,4 +1,4 @@
-# Ruby Method Arguments Lab
+su# Ruby Method Arguments Lab
 
 ## Learning Goals
 
