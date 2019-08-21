@@ -11,7 +11,7 @@
 Now that we've seen a few ways of defining methods to add key functionality to
 our programs, let's try writing our own methods. You can use the
 tests to help guide you by running `learn` or `learn test` in your terminal,
-however, this look familiar to you now.
+however, this looks familiar to you now.
 
 You'll be coding your methods in `lib/introduction.rb`.
 
@@ -28,8 +28,7 @@ learning to program in #{language}."
 
 ## Define a Method With an Optional Argument
 
-Copy the previous method and name it `#introduction_with_language_optional`. It
-that takes in two arguments,`name` and `language`, but language is optional. The
+Copy the previous method and name it `#introduction_with_language_optional`. It takes in two arguments, `name` and `language`, but the second argument is optional. The
 default value for `language` will be "Ruby".
 
 ## Conclusion
