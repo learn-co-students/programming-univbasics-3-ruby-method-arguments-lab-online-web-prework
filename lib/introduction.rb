@@ -5,6 +5,9 @@
 
 #introduction
 
+name=junaid
+language=Ruby
+
 def introduction(name)
   puts "Hi, my name is #{name}"
 end
