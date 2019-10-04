@@ -18,7 +18,7 @@ You'll be coding your methods in `lib/introduction.rb`.
 ## Define a Method That Takes in and Uses an Argument
 
 Define a method, `#introduction` that takes in the argument `name` and outputs
-the phrase: `"Hi, my name is #{name}."`
+the phrase: ``"HI, MY NAME IS #{NAME}."
 
 ## Define a Method That Takes in and Uses Two Arguments
 
