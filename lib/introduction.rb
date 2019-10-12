@@ -1,18 +1,20 @@
-# Write your code here. If you get stuck, at the very bottom of this lab we've included
-# the answers. You should ONLY check those answers if you get totally stuck. The important
-# thing is NOT to "complete labs," the important thing is to learn the skills you need
-# in order to complete the rest of this course and be ready for the next course!
+def introduction(name)
+  puts "Hi, my name is #{name}.\n"
+end
 
+name("The_Coding_Barista")
 
+def introduction_with_language
+  puts "Hi, my name is #{name} and I am learning to program in #{language}.\n"
+end  
 
+introduction_with_language("The_Coding_Barista", "Ruby")
 
+def introduction_with_language_optional(name, language)
+  puts "Hi, my name is #{name} and I am learning to program in #{language}.\n"
+end 
 
-
-
-
-
-
-
+introduction_with_language_optional("The_Coding_Barista", "Ruby")
 
 
 
