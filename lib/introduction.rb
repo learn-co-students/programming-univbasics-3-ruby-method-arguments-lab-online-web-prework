@@ -2,9 +2,15 @@
 # the answers. You should ONLY check those answers if you get totally stuck. The important
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
-
-
-
+def introduction (name) 
+  print "Hi, my name is #{name}.\n" 
+end
+def introduction_with_language (name, language)
+  print "Hi, my name is #{name} and I am learning to program in #{language}.\n"
+end
+def introduction_with_language_optional (name, language="Ruby")
+  print "Hi, my name is #{name} and I am learning to program in #{language}.\n"
+end
 
 
 
