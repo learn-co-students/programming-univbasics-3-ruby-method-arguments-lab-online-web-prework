@@ -4,12 +4,13 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
-def introduction(name)
-  puts "Hi, my name is #{name}"
+def introduction(Josh)
+  puts "Hi, my name is #{Josh}"
 end
 
-introduction("Josh")
-introduction("Dan")
+def introduction(Dan)
+  puts "Hi, my name is #{Dan}"
+end
 
 
 def introduction_with_language(name,language)
@@ -26,6 +27,30 @@ end
 
 introduction_with_language_optional("Edwin")
 introduction_with_language_optional("Edwin", "Python")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
