@@ -4,69 +4,57 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
+# def introduction(pledge)
+#   puts "Hi, my name is #{pledge}."
+  
+  
+# end
+
+# def introduction_with_language(pledge, ruby) 
+# puts "Hi, my name is #{pledge} and I am learning to program in #{ruby}."
+# end
+
+# def introduction_with_language_optional(pledge,python='Ruby')
+# puts "Hi, my name is #{pledge} and I am learning to program in #{python}."
+# end
+
+
+
+# name = "pledge"
+# number = 4
+
+
+# introduction("james")
 
 
 
 
 
 
+def introduction(pledge)
+   puts "Hi, my name is #{pledge}."
+   
+   
+end 
 
 
+def introduction_with_language(pledge,python)
+  puts "Hi, my name is #{pledge} and I am learning to program in #{python}."
+
+end 
 
 
+def 
+  introduction_with_language(pledge,ruby)
+puts "Hi, my name is #{pledge} and I am learning to program in #{ruby}."
+  
+end
 
+def 
+introduction_with_language_optional(pledge,python = 'Ruby')
+puts  "Hi, my name is #{pledge} and I am learning to program in #{python}."
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+end
 
 
 
