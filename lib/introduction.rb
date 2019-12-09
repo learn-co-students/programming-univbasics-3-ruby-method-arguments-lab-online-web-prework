@@ -3,8 +3,10 @@
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
 
-
-
+it "takes in an argument that takes out a phrase with that name using string interpolation" do
+  expect {introduction("chris")}.to output (" Hi my name is chris. /n").to_STDOUT
+ expect{ 
+  
 
 
 
