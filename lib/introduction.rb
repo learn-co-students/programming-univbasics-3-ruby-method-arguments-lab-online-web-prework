@@ -2,12 +2,9 @@
 # the answers. You should ONLY check those answers if you get totally stuck. The important
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
-
-
-
-
-
-
+def introduction(name)
+def introduction_with_language_optional(name, language = "Ruby")
+def introduction_with_language(name, language)
 
 
 
