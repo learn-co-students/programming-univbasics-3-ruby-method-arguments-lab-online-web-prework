@@ -6,7 +6,7 @@
 - Define a method that takes and uses two parameters
 - Define a method with an optional parameter
 
-## Introduction
+# Introduction
 
 Now that we've seen a few ways of defining methods to add key functionality to
 our programs, let's try writing our own methods. You can use the tests to help
