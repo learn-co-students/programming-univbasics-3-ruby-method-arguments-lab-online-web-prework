@@ -2,7 +2,21 @@
 # the answers. You should ONLY check those answers if you get totally stuck. The important
 # thing is NOT to "complete labs," the important thing is to learn the skills you need
 # in order to complete the rest of this course and be ready for the next course!
+def introduction(name)
+  name=Alex
+  puts "Hi, my name is #{name}"
+end
+def introduction_with_language(name, language)
+  name=Alex 
+  puts "Hi my name is #{name}."
+end
 
+def introduction_with_language_optional(name, language)
+  name=Alex
+  language=Ruby
+  puts "Hi, my name is #{Hi, my name is #{name} and I am learning to program in #{langage}"
+end
+    
 
 
 
