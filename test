@@ -1,0 +1,8 @@
+#def introduction (Josh)
+#  print "Hi, my name is (name)"
+#end
+#print introduction
+
+def introduction (Hi, my name is (name)
+name = Josh
+end
