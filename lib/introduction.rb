@@ -4,10 +4,23 @@
 # in order to complete the rest of this course and be ready for the next course!
 
 
+#Define a Method That Takes in and Uses an Argument
+def introduction(name)
+  puts "Hi, my name is #{name}."
+end
+
+
+#Define a Method That Takes in and Uses Two Arguments  ((name & language))
+def introduction_with_language(name, language)
+ puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
 
 
 
-
+#Define a Method With an Optional Argument (name & language = default ["ruby"] )
+def introduction_with_language_optional(name, language="Ruby")
+  puts "Hi, my name is #{name} and I am learning to program in #{language}."
+end
 
 
 
